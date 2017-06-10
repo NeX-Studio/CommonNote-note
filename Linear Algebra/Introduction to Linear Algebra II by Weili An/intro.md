@@ -1,0 +1,1 @@
+This is my head</img>This is a note done by [Weili An](https://github.com/William-An) in Chinese. It covers most of the chapters in this book as well as some extra knowledge mentions by my linear algebra teacher in Shenzhen Middle School.
